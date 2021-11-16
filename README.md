@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wajdi gridha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wajdi gridha" height="30" width="40" /></a>
-<a href="https://fb.com/wajdy gridha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wajdy gridha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wajdi-gridha-b034471b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wajdi gridha" height="30" width="40" /></a>
+<a href="https://fb.com/wajdigridha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wajdy gridha" height="30" width="40" /></a>
 <a href="https://instagram.com/wajdy_gridha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wajdy_gridha" height="30" width="40" /></a>
 </p>
 
